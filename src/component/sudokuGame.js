@@ -596,7 +596,7 @@ class Game extends Component {
           </div>
 
           <div className="mb-0 footer-container text-center bg-dark text-white py-2 footer">
-            <p className="mb-0">Made by <a href="https://www.linkedin.com/in/rohit-jain-a732b11b0/" target="_blank" className="text-primary" rel="noreferrer">Rohit</a> with 
+            <p className="mb-0">Made by <a href="https://www.linkedin.com/in/yash-mittal-2625091b0/" target="_blank" className="text-primary" rel="noreferrer">Yash</a> with 
             <span class="text-danger">♥</span></p>
           </div>
         
